@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Checkers
+comment0.text=\r\n\ This\ panel\ lets\ two\ users\ play\ checkers\ against\ each\ other.\r\n\ BLUE\ always\ starts\ the\ game.\ \ If\ a\ player\ can\ jump\ an\ opponent's\r\n\ piece,\ then\ the\ player\ must\ jump.\ \ When\ a\ player\ can\ make\ no\ more\r\n\ moves,\ the\ game\ ends.\r\n\ \r\n\ The\ class\ has\ a\ main()\ routine\ that\ lets\ it\ be\ run\ as\ a\ stand-alone\r\n\ application.\ \ The\ application\ just\ opens\ a\ window\ that\ uses\ an\ object\r\n\ of\ type\ Checkers\ as\ its\ content\ pane.\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ Main\ routine\ makes\ it\ possible\ to\ run\ Checkers\ as\ a\ stand-alone\r\n\ application.\ \ Opens\ a\ window\ showing\ a\ Checkers\ panel;\ the\ program\r\n\ ends\ when\ the\ user\ closes\ the\ window.\r\n
+comment2.params=musicLocation
+comment2.target=void\ playMusic(java.lang.String)
+comment3.params=
+comment3.target=Checkers()
+comment3.text=\r\n\ The\ constructor\ creates\ the\ Board\ (which\ in\ turn\ creates\ and\ manages\r\n\ the\ buttons\ and\ message\ label),\ adds\ all\ the\ components,\ and\ sets\r\n\ the\ bounds\ of\ the\ components.\ \ A\ null\ layout\ is\ used.\ \ (This\ is\r\n\ the\ only\ thing\ that\ is\ done\ in\ the\ main\ Checkers\ class.)\r\n
+numComments=4
